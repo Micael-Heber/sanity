@@ -33,7 +33,8 @@ nav ul {
     padding: 0;
     display: flex;
     justify-content: center;
-    gap: 200px;
+    gap: 25%;
+    margin-left: 50px;
 }
 nav li {
     display: inline;
